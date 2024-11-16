@@ -1,0 +1,5 @@
+# Godot files
+.godot/
+addons
+# Android
+android/
